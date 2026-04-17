@@ -1,0 +1,1 @@
+CampusBook is a prototype school appointment booking system designed for students to easily request and track appointments with various campus offices. The platform features a student-friendly interface for submitting appointment requests, viewing office schedules, and monitoring appointment statuses.
